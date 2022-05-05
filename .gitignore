@@ -14,3 +14,5 @@
 #VS Generated Files#
 #################
 #/.vs
+# Built data for maps
+*_BuiltData.uasset
